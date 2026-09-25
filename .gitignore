@@ -1,0 +1,21 @@
+# runtime data — don't commit anyone's gamertag lists or scrape results
+tags.txt
+results.txt
+
+# driver binary
+chromedriver.exe
+chromedriver
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+build/
+dist/
+*.spec
+
+# os junk
+.DS_Store
+Thumbs.db
