@@ -1,6 +1,6 @@
 # Xbox Gamertag Checker
 
-A small Tkinter desktop tool that looks up a list of Xbox gamertags and records their public activity — last game played and how long ago — by reading the public profile pages on [xboxgamertag.com](https://www.xboxgamertag.com/).
+A small Tkinter desktop tool that looks up a list of Xbox gamertags and records their public activity last game played and how long ago, by reading the public profile pages on [xboxgamertag.com](https://www.xboxgamertag.com/).
 
 It does not log in to Xbox Live, does not touch credentials of any kind, and only reads information that's already public on each profile's search page. If a profile is set to private, it's logged as private and nothing further is pulled.
 
